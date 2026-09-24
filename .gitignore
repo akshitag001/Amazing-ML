@@ -1,0 +1,20 @@
+# data (not redistributed)
+student_resource/dataset/
+# regenerable intermediate artifacts (~19 GB); keep only the trained model files
+ber/cache/*
+!ber/cache/models/
+ber/cache/models/*
+!ber/cache/models/lgb_v1.txt
+!ber/cache/models/lgb_v1_meta.json
+!ber/cache/models/threshold.json
+# exceeds GitHub's 100 MB per-file limit
+ber/output/candidate_pairs.tsv
+# no README files in this repo
+README.md
+**/README.md
+# OS / Python junk
+__MACOSX/
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/

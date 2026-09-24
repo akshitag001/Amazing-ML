@@ -1,0 +1,6892 @@
+[
+[
+"mh",
+"maharashtra",
+184128
+],
+[
+"texas",
+"tx",
+169898
+],
+[
+"new york",
+"ny",
+129464
+],
+[
+"mharastr",
+"maharashtra",
+123286
+],
+[
+"north carolina",
+"nc",
+120421
+],
+[
+"ohio",
+"oh",
+108040
+],
+[
+"illinois",
+"il",
+96313
+],
+[
+"virginia",
+"va",
+76020
+],
+[
+"tennessee",
+"tn",
+76011
+],
+[
+"massachusetts",
+"ma",
+72528
+],
+[
+"arizona",
+"az",
+72002
+],
+[
+"up",
+"uttar pradesh",
+69258
+],
+[
+"ka",
+"karnataka",
+66842
+],
+[
+"indiana",
+"in",
+62839
+],
+[
+"tn",
+"tamil nadu",
+60186
+],
+[
+"wb",
+"west bengal",
+54992
+],
+[
+"gj",
+"gujarat",
+54722
+],
+[
+"washington",
+"wa",
+53984
+],
+[
+"maryland",
+"md",
+51522
+],
+[
+"california",
+"ca",
+47891
+],
+[
+"uttr prdes",
+"uttar pradesh",
+46508
+],
+[
+"krnatk",
+"karnataka",
+44753
+],
+[
+"tg",
+"telangana",
+42860
+],
+[
+"alabama",
+"al",
+41291
+],
+[
+"tmilnatu",
+"tamil nadu",
+40090
+],
+[
+"wisconsin",
+"wi",
+40012
+],
+[
+"minnesota",
+"mn",
+39696
+],
+[
+"oregon",
+"or",
+38337
+],
+[
+"kentucky",
+"ky",
+37311
+],
+[
+"pscimbng",
+"west bengal",
+36681
+],
+[
+"gujrat",
+"gujarat",
+36213
+],
+[
+"arkansas",
+"ar",
+34752
+],
+[
+"hr",
+"haryana",
+33562
+],
+[
+"missouri",
+"mo",
+32919
+],
+[
+"rj",
+"rajasthan",
+30692
+],
+[
+"utah",
+"ut",
+29435
+],
+[
+"telngan",
+"telangana",
+28775
+],
+[
+"oklahoma",
+"ok",
+28769
+],
+[
+"iowa",
+"ia",
+28461
+],
+[
+"andhra pradesh",
+"telangana",
+28335
+],
+[
+"kl",
+"kerala",
+26962
+],
+[
+"connecticut",
+"ct",
+23569
+],
+[
+"hriyana",
+"haryana",
+22329
+],
+[
+"br",
+"bihar",
+21586
+],
+[
+"mp",
+"madhya pradesh",
+21583
+],
+[
+"rajsthan",
+"rajasthan",
+20494
+],
+[
+"west virginia",
+"wv",
+20188
+],
+[
+"kansas",
+"ks",
+19953
+],
+[
+"keralam",
+"kerala",
+18388
+],
+[
+"kerln",
+"kerala",
+17828
+],
+[
+"ap",
+"andhra pradesh",
+16297
+],
+[
+"maine",
+"me",
+15396
+],
+[
+"pennsylvania",
+"pa",
+15074
+],
+[
+"new mexico",
+"nm",
+14932
+],
+[
+"mdhy prdes",
+"madhya pradesh",
+14417
+],
+[
+"montana",
+"mt",
+12843
+],
+[
+"delaware",
+"de",
+11049
+],
+[
+"odisha",
+"orissa",
+10673
+],
+[
+"od",
+"orissa",
+10632
+],
+[
+"andhrprdes",
+"andhra pradesh",
+10632
+],
+[
+"district of columbia",
+"dc",
+8628
+],
+[
+"north dakota",
+"nd",
+8531
+],
+[
+"nebraska",
+"ne",
+7288
+],
+[
+"odisa",
+"orissa",
+7056
+],
+[
+"vermont",
+"vt",
+6709
+],
+[
+"louisiana",
+"la",
+5489
+],
+[
+"colorado",
+"co",
+5463
+],
+[
+"alaska",
+"ak",
+4722
+],
+[
+"south carolina",
+"sc",
+4306
+],
+[
+"georgia",
+"ga",
+4106
+],
+[
+"wyoming",
+"wy",
+3580
+],
+[
+"virginia beach",
+"virginia beach city",
+3087
+],
+[
+"atl",
+"atlanta",
+2370
+],
+[
+"a",
+"unit a",
+2212
+],
+[
+"b",
+"unit b",
+2131
+],
+[
+"ft worth",
+"fort worth",
+1917
+],
+[
+"south dakota",
+"sd",
+1858
+],
+[
+"st louis",
+"saint louis",
+1741
+],
+[
+"idaho",
+"id",
+1536
+],
+[
+"chesapeake",
+"chesapeake city",
+1494
+],
+[
+"baton rouge",
+"baton rouge city",
+1389
+],
+[
+"newport news",
+"newport news city",
+1331
+],
+[
+"woodbridge",
+"prince william county",
+1182
+],
+[
+"norfolk",
+"norfolk city",
+1100
+],
+[
+"henrico",
+"henrico county",
+1096
+],
+[
+"c",
+"unit c",
+1051
+],
+[
+"maryvale",
+"phoenix",
+1021
+],
+[
+"hampton",
+"hampton city",
+1019
+],
+[
+"dorchester",
+"boston",
+960
+],
+[
+"rhode island",
+"ri",
+939
+],
+[
+"alexandria",
+"fairfax county",
+900
+],
+[
+"florida",
+"fl",
+866
+],
+[
+"mesa four peaks",
+"mesa",
+857
+],
+[
+"roanoke",
+"roanoke city",
+836
+],
+[
+"d",
+"unit d",
+805
+],
+[
+"midlothian",
+"chesterfield county",
+786
+],
+[
+"mesa mountain view",
+"mesa",
+769
+],
+[
+"suffolk",
+"suffolk city",
+746
+],
+[
+"antioch",
+"nashville",
+742
+],
+[
+"ocotillo",
+"chandler",
+680
+],
+[
+"manassas",
+"prince william county",
+654
+],
+[
+"houston city",
+"houston",
+652
+],
+[
+"ft wayne",
+"fort wayne",
+648
+],
+[
+"south mountain",
+"phoenix",
+648
+],
+[
+"wayne",
+"fort wayne",
+636
+],
+[
+"city of oxnard",
+"oxnard",
+633
+],
+[
+"arlington",
+"arlington county",
+620
+],
+[
+"west jordan",
+"west jordan city",
+615
+],
+[
+"saint george",
+"st george city",
+583
+],
+[
+"arcadia",
+"phoenix",
+575
+],
+[
+"city of simi valley",
+"simi valley",
+574
+],
+[
+"arden arcade",
+"sacramento",
+571
+],
+[
+"brighton",
+"boston",
+566
+],
+[
+"portsmouth",
+"portsmouth city",
+562
+],
+[
+"ashburn",
+"loudoun county",
+557
+],
+[
+"scottsdale kachina",
+"scottsdale",
+557
+],
+[
+"stafford",
+"stafford county",
+542
+],
+[
+"sunnyslope",
+"phoenix",
+538
+],
+[
+"sandy",
+"sandy city",
+537
+],
+[
+"waukesha",
+"city of waukesha",
+535
+],
+[
+"appleton",
+"city of appleton",
+535
+],
+[
+"mesa desert",
+"mesa",
+533
+],
+[
+"fairfax",
+"fairfax county",
+532
+],
+[
+"andersen springs",
+"chandler",
+525
+],
+[
+"city of ventura",
+"ventura",
+522
+],
+[
+"unit a",
+"unit unit a",
+510
+],
+[
+"unit b",
+"unit unit b",
+508
+],
+[
+"mt vernon",
+"mount vernon",
+500
+],
+[
+"queen creek",
+"san tan valley",
+496
+],
+[
+"city of thousand oaks",
+"thousand oaks",
+496
+],
+[
+"springfield",
+"fairfax county",
+491
+],
+[
+"mesa dobson",
+"mesa",
+487
+],
+[
+"boulder hills",
+"phoenix",
+486
+],
+[
+"maricopa carrier annex",
+"maricopa",
+478
+],
+[
+"lynchburg",
+"lynchburg city",
+475
+],
+[
+"el paso",
+"city of el paso",
+471
+],
+[
+"kenosha",
+"city of kenosha",
+464
+],
+[
+"wilson",
+"city of wilson",
+462
+],
+[
+"avondale goodyear",
+"avondale",
+454
+],
+[
+"roxbury",
+"boston",
+452
+],
+[
+"chicago city",
+"chicago",
+451
+],
+[
+"falls church",
+"fairfax county",
+449
+],
+[
+"glen allen",
+"henrico county",
+449
+],
+[
+"chester",
+"chesterfield county",
+445
+],
+[
+"northwest annex",
+"phoenix",
+430
+],
+[
+"hot springs national park",
+"hot springs",
+429
+],
+[
+"sierra adobe",
+"phoenix",
+414
+],
+[
+"shaw butte",
+"phoenix",
+411
+],
+[
+"e",
+"unit e",
+405
+],
+[
+"scottsdale airpark",
+"scottsdale",
+397
+],
+[
+"la crosse",
+"city of la crosse",
+397
+],
+[
+"charlotte city",
+"charlotte",
+395
+],
+[
+"osborn",
+"phoenix",
+393
+],
+[
+"reston",
+"fairfax county",
+391
+],
+[
+"mechanicsville",
+"hanover county",
+388
+],
+[
+"chesterfield",
+"chesterfield county",
+386
+],
+[
+"daisy mountain",
+"phoenix",
+382
+],
+[
+"oshkosh",
+"city of oshkosh",
+377
+],
+[
+"sterling",
+"loudoun county",
+370
+],
+[
+"winchester",
+"frederick county",
+368
+],
+[
+"apt a",
+"unit apt a",
+366
+],
+[
+"jamaica plain",
+"boston",
+366
+],
+[
+"phoenix city",
+"phoenix",
+366
+],
+[
+"mesa falcon field",
+"mesa",
+364
+],
+[
+"f",
+"unit f",
+363
+],
+[
+"south boston",
+"boston",
+345
+],
+[
+"apt b",
+"unit apt b",
+344
+],
+[
+"yorktown",
+"york county",
+341
+],
+[
+"hermitage",
+"nashville",
+340
+],
+[
+"city of camarillo",
+"camarillo",
+339
+],
+[
+"washington city",
+"washington",
+338
+],
+[
+"cactus",
+"phoenix",
+335
+],
+[
+"danville",
+"danville city",
+334
+],
+[
+"rio salado",
+"phoenix",
+333
+],
+[
+"menomonee falls",
+"village of menomonee falls",
+332
+],
+[
+"harrisonburg",
+"harrisonburg city",
+327
+],
+[
+"apartment a",
+"unit apartment a",
+325
+],
+[
+"scottsdale hopi",
+"scottsdale",
+324
+],
+[
+"saint joseph",
+"fort wayne",
+323
+],
+[
+"faridabad",
+"delhi",
+323
+],
+[
+"columbus city",
+"columbus",
+323
+],
+[
+"herndon",
+"fairfax county",
+316
+],
+[
+"centreville",
+"fairfax county",
+314
+],
+[
+"w hartford",
+"west hartford",
+313
+],
+[
+"brooklyn city",
+"brooklyn",
+304
+],
+[
+"blacksburg",
+"blacksburg town",
+302
+],
+[
+"phoenix cdp",
+"phoenix",
+299
+],
+[
+"northeast",
+"phoenix",
+292
+],
+[
+"annandale",
+"fairfax county",
+288
+],
+[
+"houston cdp",
+"houston",
+288
+],
+[
+"east boston",
+"boston",
+286
+],
+[
+"albany",
+"colonie",
+285
+],
+[
+"austin city",
+"austin",
+284
+],
+[
+"hoston",
+"houston",
+281
+],
+[
+"hyde park",
+"boston",
+281
+],
+[
+"east st louis",
+"east saint louis",
+278
+],
+[
+"ft smith",
+"fort smith",
+277
+],
+[
+"nashville city",
+"nashville",
+273
+],
+[
+"kansas city city",
+"kansas city",
+271
+],
+[
+"houston township",
+"houston",
+270
+],
+[
+"g",
+"unit g",
+270
+],
+[
+"herriman",
+"herriman town",
+269
+],
+[
+"brookfield",
+"city of brookfield",
+269
+],
+[
+"huston",
+"houston",
+268
+],
+[
+"springfield city",
+"springfield",
+267
+],
+[
+"apartment b",
+"unit apartment b",
+266
+],
+[
+"mclean",
+"fairfax county",
+265
+],
+[
+"florin",
+"sacramento",
+265
+],
+[
+"logan",
+"logan city",
+264
+],
+[
+"new berlin",
+"city of new berlin",
+260
+],
+[
+"spotsylvania",
+"spotsylvania county",
+259
+],
+[
+"capitol",
+"phoenix",
+256
+],
+[
+"msea",
+"mesa",
+255
+],
+[
+"draper",
+"draper city sl co",
+252
+],
+[
+"laveen annex",
+"phoenix",
+251
+],
+[
+"charlote",
+"charlotte",
+250
+],
+[
+"raleigh city",
+"raleigh",
+247
+],
+[
+"gainesville",
+"prince william county",
+245
+],
+[
+"abiote",
+"fort wayne",
+245
+],
+[
+"indianapolis city",
+"indianapolis",
+240
+],
+[
+"lutherville timonium",
+"lutherville",
+238
+],
+[
+"vienna",
+"fairfax county",
+234
+],
+[
+"e hartford",
+"east hartford",
+234
+],
+[
+"levittown",
+"hempstead",
+231
+],
+[
+"sacramento city",
+"sacramento",
+228
+],
+[
+"massapequa",
+"oyster bay",
+226
+],
+[
+"butte",
+"butte silver bow",
+225
+],
+[
+"fairport",
+"perinton",
+225
+],
+[
+"portland city",
+"portland",
+223
+],
+[
+"pecos",
+"phoenix",
+222
+],
+[
+"hosuton",
+"houston",
+219
+],
+[
+"magna",
+"magna city",
+219
+],
+[
+"burke",
+"fairfax county",
+217
+],
+[
+"roslindale",
+"boston",
+217
+],
+[
+"ft mill",
+"fort mill",
+216
+],
+[
+"bay shore",
+"islip",
+215
+],
+[
+"ahwatukee",
+"phoenix",
+213
+],
+[
+"atlanta city",
+"atlanta",
+212
+],
+[
+"dumfries",
+"prince william county",
+212
+],
+[
+"columbus cdp",
+"columbus",
+211
+],
+[
+"plain twp",
+"canton",
+210
+],
+[
+"tulsa city",
+"tulsa",
+208
+],
+[
+"brunswick",
+"brunswick city",
+208
+],
+[
+"apt d",
+"unit apt d",
+207
+],
+[
+"east meadow",
+"hempstead",
+206
+],
+[
+"apt",
+"unit apt",
+205
+],
+[
+"west roxbury",
+"boston",
+203
+],
+[
+"tucson city",
+"tucson",
+203
+],
+[
+"louisville city",
+"louisville",
+203
+],
+[
+"unit c",
+"unit unit c",
+202
+],
+[
+"covington ky",
+"covington",
+202
+],
+[
+"staunton",
+"staunton city",
+202
+],
+[
+"rocky mt",
+"rocky mount",
+201
+],
+[
+"christiansburg",
+"christiansburg town",
+201
+],
+[
+"h",
+"unit h",
+200
+],
+[
+"knoxville city",
+"knoxville",
+199
+],
+[
+"houton",
+"houston",
+199
+],
+[
+"coram",
+"brookhaven",
+198
+],
+[
+"chiago",
+"chicago",
+197
+],
+[
+"haymarket",
+"prince william county",
+196
+],
+[
+"roy",
+"roy city",
+196
+],
+[
+"msa",
+"mesa",
+194
+],
+[
+"indianapolis township",
+"indianapolis",
+194
+],
+[
+"hicksville",
+"oyster bay",
+194
+],
+[
+"columbus township",
+"columbus",
+192
+],
+[
+"apt c",
+"unit apt c",
+192
+],
+[
+"unit d",
+"unit unit d",
+192
+],
+[
+"aldie",
+"loudoun county",
+191
+],
+[
+"hyannis",
+"barnstable",
+190
+],
+[
+"juneau",
+"city and borough of juneau",
+190
+],
+[
+"sun prairie",
+"city of sun prairie",
+190
+],
+[
+"king george",
+"king george county",
+189
+],
+[
+"phoeix",
+"phoenix",
+188
+],
+[
+"marshfield",
+"city of marshfield",
+187
+],
+[
+"adk",
+"atlanta",
+187
+],
+[
+"chicago township",
+"chicago",
+186
+],
+[
+"saint george city",
+"st george city",
+185
+],
+[
+"cincinnati city",
+"cincinnati",
+185
+],
+[
+"hoouston",
+"houston",
+185
+],
+[
+"mt pleasant",
+"mount pleasant",
+185
+],
+[
+"hurricane",
+"hurricane city",
+185
+],
+[
+"baltimore city",
+"baltimore",
+184
+],
+[
+"manitowoc",
+"city of manitowoc",
+184
+],
+[
+"waynesboro",
+"waynesboro city",
+184
+],
+[
+"mason township",
+"mason city",
+184
+],
+[
+"mattapan",
+"boston",
+183
+],
+[
+"seattle city",
+"seattle",
+182
+],
+[
+"north little rock",
+"sherwood",
+182
+],
+[
+"vineyard",
+"sacramento",
+182
+],
+[
+"hixson",
+"chattanooga",
+181
+],
+[
+"scottsdale fountain hills",
+"scottsdale",
+179
+],
+[
+"blue bell",
+"whitpain township",
+179
+],
+[
+"mea",
+"mesa",
+179
+],
+[
+"phoenix township",
+"phoenix",
+178
+],
+[
+"wilmington city",
+"wilmington",
+176
+],
+[
+"powhatan",
+"powhatan county",
+175
+],
+[
+"latham",
+"colonie",
+175
+],
+[
+"park city",
+"park city summit co",
+174
+],
+[
+"cincinnati township",
+"cincinnati",
+174
+],
+[
+"forest",
+"bedford county",
+174
+],
+[
+"huntington station",
+"huntington",
+173
+],
+[
+"west babylon",
+"babylon",
+172
+],
+[
+"new city",
+"clarkstown",
+170
+],
+[
+"arrowhead",
+"phoenix",
+170
+],
+[
+"louisville cdp",
+"louisville",
+170
+],
+[
+"soldotna",
+"kenai peninsula borough",
+169
+],
+[
+"st michael",
+"saint michael",
+169
+],
+[
+"endicott",
+"union",
+169
+],
+[
+"phonix",
+"phoenix",
+168
+],
+[
+"oceanside",
+"hempstead",
+166
+],
+[
+"messa",
+"mesa",
+166
+],
+[
+"w haven",
+"west haven",
+165
+],
+[
+"s bend",
+"south bend",
+165
+],
+[
+"mt airy",
+"mount airy",
+165
+],
+[
+"mehlville",
+"saint louis",
+164
+],
+[
+"foothill farms",
+"sacramento",
+164
+],
+[
+"madison county",
+"richmond",
+164
+],
+[
+"st george",
+"st george city",
+164
+],
+[
+"chciago",
+"chicago",
+163
+],
+[
+"charltte",
+"charlotte",
+163
+],
+[
+"onalaska",
+"city of onalaska",
+162
+],
+[
+"merrick",
+"hempstead",
+160
+],
+[
+"charlotte township",
+"charlotte",
+160
+],
+[
+"taylorsville",
+"taylorsville city",
+159
+],
+[
+"oakville",
+"saint louis",
+159
+],
+[
+"springfield cdp",
+"springfield",
+159
+],
+[
+"superior",
+"city of superior",
+158
+],
+[
+"wadsworth",
+"wadsworth city",
+158
+],
+[
+"columbia city",
+"columbia",
+158
+],
+[
+"bayou cane",
+"houma",
+158
+],
+[
+"st charles",
+"saint charles",
+158
+],
+[
+"mahopac",
+"carmel",
+157
+],
+[
+"nashville cdp",
+"nashville",
+157
+],
+[
+"mt gilead",
+"mount gilead",
+156
+],
+[
+"wantagh",
+"hempstead",
+155
+],
+[
+"central islip",
+"islip",
+154
+],
+[
+"tolleson",
+"phoenix",
+154
+],
+[
+"charlestown",
+"boston",
+154
+],
+[
+"hopewell junction",
+"east fishkill",
+154
+],
+[
+"chiicago",
+"chicago",
+153
+],
+[
+"stevens point",
+"city of stevens point",
+153
+],
+[
+"indianapolis cdp",
+"indianapolis",
+153
+],
+[
+"city of moorpark",
+"moorpark",
+152
+],
+[
+"houstton",
+"houston",
+152
+],
+[
+"fayetteville city",
+"fayetteville",
+151
+],
+[
+"so windsor",
+"south windsor",
+151
+],
+[
+"gloucester",
+"gloucester county",
+151
+],
+[
+"phooenix",
+"phoenix",
+151
+],
+[
+"plainview",
+"oyster bay",
+150
+],
+[
+"south valley",
+"albuquerque",
+150
+],
+[
+"wichita city",
+"wichita",
+149
+],
+[
+"hopewell",
+"hopewell city",
+148
+],
+[
+"phenix",
+"phoenix",
+148
+],
+[
+"e haven",
+"east haven",
+148
+],
+[
+"cicago",
+"chicago",
+147
+],
+[
+"st matthews",
+"saint matthews",
+147
+],
+[
+"saint charles",
+"st charles",
+147
+],
+[
+"mount juliet",
+"mt juliet",
+146
+],
+[
+"brookpark",
+"brook park",
+145
+],
+[
+"houstn",
+"houston",
+145
+],
+[
+"ruther glen",
+"caroline county",
+144
+],
+[
+"lorton",
+"fairfax county",
+144
+],
+[
+"muskego",
+"city of muskego",
+144
+],
+[
+"warrenton",
+"fauquier county",
+142
+],
+[
+"baldwin",
+"hempstead",
+142
+],
+[
+"nanuet",
+"clarkstown",
+141
+],
+[
+"ausin",
+"austin",
+141
+],
+[
+"cpu karens hallmark cactus",
+"phoenix",
+141
+],
+[
+"north salt lake",
+"city of north salt lake",
+141
+],
+[
+"perry",
+"fort wayne",
+140
+],
+[
+"phoennix",
+"phoenix",
+139
+],
+[
+"cleveland township",
+"cleveland",
+138
+],
+[
+"medford",
+"brookhaven",
+137
+],
+[
+"boston city",
+"boston",
+136
+],
+[
+"kenai",
+"kenai peninsula borough",
+136
+],
+[
+"towson",
+"loch raven",
+136
+],
+[
+"houtson",
+"houston",
+136
+],
+[
+"mesa city",
+"mesa",
+136
+],
+[
+"beaver dam",
+"city of beaver dam",
+135
+],
+[
+"middleton",
+"city of middleton",
+135
+],
+[
+"chicago cdp",
+"chicago",
+135
+],
+[
+"st cloud",
+"saint cloud",
+135
+],
+[
+"saint peters",
+"st peters",
+135
+],
+[
+"deer park",
+"babylon",
+134
+],
+[
+"memphis city",
+"memphis",
+134
+],
+[
+"bellmore",
+"hempstead",
+134
+],
+[
+"chattanooga",
+"red bank",
+134
+],
+[
+"unit",
+"unit unit",
+133
+],
+[
+"montgomery city",
+"montgomery",
+133
+],
+[
+"tcson",
+"tucson",
+133
+],
+[
+"bristow",
+"prince william county",
+133
+],
+[
+"front royal",
+"warren county",
+133
+],
+[
+"raligh",
+"raleigh",
+132
+],
+[
+"franklin square",
+"hempstead",
+132
+],
+[
+"syosset",
+"oyster bay",
+132
+],
+[
+"apache county",
+"concho",
+132
+],
+[
+"raleigh township",
+"raleigh",
+132
+],
+[
+"phoenxi",
+"phoenix",
+131
+],
+[
+"raleihg",
+"raleigh",
+131
+],
+[
+"columbbus",
+"columbus",
+130
+],
+[
+"o fallon",
+"ofallon",
+130
+],
+[
+"fircrest",
+"university place",
+130
+],
+[
+"northern communities",
+"eagle river",
+130
+],
+[
+"w jordan",
+"west jordan city",
+130
+],
+[
+"spanish lake",
+"saint louis",
+129
+],
+[
+"marion city",
+"marion",
+129
+],
+[
+"mobile city",
+"mobile",
+129
+],
+[
+"plover",
+"village of plover",
+128
+],
+[
+"centereach",
+"brookhaven",
+128
+],
+[
+"independence ky",
+"independence",
+127
+],
+[
+"colonial heights",
+"colonial heights city",
+127
+],
+[
+"king of prussia",
+"upper merion township",
+127
+],
+[
+"affton",
+"saint louis",
+126
+],
+[
+"brewster",
+"southeast",
+126
+],
+[
+"colubus",
+"columbus",
+126
+],
+[
+"rochester city",
+"rochester",
+126
+],
+[
+"chhicago",
+"chicago",
+126
+],
+[
+"omaha city",
+"omaha",
+125
+],
+[
+"orcutt",
+"santa maria",
+125
+],
+[
+"washngton",
+"washington",
+125
+],
+[
+"greensboro city",
+"greensboro",
+124
+],
+[
+"chalrotte",
+"charlotte",
+124
+],
+[
+"mequon",
+"city of mequon",
+124
+],
+[
+"apartment d",
+"unit apartment d",
+124
+],
+[
+"columbs",
+"columbus",
+124
+],
+[
+"coumbia",
+"columbia",
+124
+],
+[
+"ft washington",
+"fort washington",
+124
+],
+[
+"commack",
+"smithtown",
+123
+],
+[
+"sacramnto",
+"sacramento",
+123
+],
+[
+"housston",
+"houston",
+123
+],
+[
+"autin",
+"austin",
+122
+],
+[
+"tcuson",
+"tucson",
+122
+],
+[
+"eldersburg",
+"sykesville",
+122
+],
+[
+"lemay",
+"saint louis",
+122
+],
+[
+"no haven",
+"north haven",
+122
+],
+[
+"housotn",
+"houston",
+122
+],
+[
+"el paso city",
+"city of el paso",
+121
+],
+[
+"katy city",
+"katy",
+121
+],
+[
+"west valley city",
+"kearns",
+121
+],
+[
+"bassett",
+"henry county",
+121
+],
+[
+"kansas city township",
+"kansas city",
+120
+],
+[
+"j",
+"unit j",
+120
+],
+[
+"albuquerque city",
+"albuquerque",
+120
+],
+[
+"apache junction",
+"gold canyon",
+120
+],
+[
+"yorktown heights",
+"yorktown",
+119
+],
+[
+"memphis township",
+"memphis",
+119
+],
+[
+"kaukauna",
+"city of kaukauna",
+119
+],
+[
+"chcago",
+"chicago",
+118
+],
+[
+"houson",
+"houston",
+118
+],
+[
+"washingon",
+"washington",
+118
+],
+[
+"tusa",
+"tulsa",
+118
+],
+[
+"huoston",
+"houston",
+118
+],
+[
+"west islip",
+"islip",
+118
+],
+[
+"scottsdale city",
+"scottsdale",
+118
+],
+[
+"stephens city",
+"frederick county",
+117
+],
+[
+"newbury park",
+"thousand oaks",
+117
+],
+[
+"delmar",
+"bethlehem",
+117
+],
+[
+"cpu arizona city",
+"arizona city",
+117
+],
+[
+"menasha",
+"city of menasha",
+116
+],
+[
+"washintgon",
+"washington",
+115
+],
+[
+"erlanger ky",
+"erlanger",
+115
+],
+[
+"lubbock city",
+"lubbock",
+115
+],
+[
+"houstoon",
+"houston",
+114
+],
+[
+"glendale",
+"phoenix",
+114
+],
+[
+"apartment c",
+"unit apartment c",
+114
+],
+[
+"seatle",
+"seattle",
+114
+],
+[
+"copiague",
+"babylon",
+114
+],
+[
+"broooklyn",
+"brooklyn",
+114
+],
+[
+"pearl river",
+"orangetown",
+113
+],
+[
+"clifton park",
+"halfmoon",
+113
+],
+[
+"w valley city",
+"west valley city",
+113
+],
+[
+"lincoln city",
+"lincoln",
+113
+],
+[
+"baldwinsville",
+"lysander",
+113
+],
+[
+"cave creek carrier annex",
+"phoenix",
+113
+],
+[
+"abingdon",
+"washington county",
+113
+],
+[
+"radford",
+"radford city",
+112
+],
+[
+"howland twp",
+"warren",
+112
+],
+[
+"moseley",
+"chesterfield county",
+112
+],
+[
+"raleigh",
+"garner",
+112
+],
+[
+"springfield township",
+"springfield",
+112
+],
+[
+"palmyra",
+"fluvanna county",
+111
+],
+[
+"autsin",
+"austin",
+111
+],
+[
+"sayville",
+"islip",
+111
+],
+[
+"evansville city",
+"evansville",
+111
+],
+[
+"nashville township",
+"nashville",
+110
+],
+[
+"irving city",
+"irving",
+110
+],
+[
+"nashvile",
+"nashville",
+110
+],
+[
+"elmont",
+"hempstead",
+110
+],
+[
+"east northport",
+"huntington",
+110
+],
+[
+"homer",
+"kenai peninsula borough",
+110
+],
+[
+"saint john",
+"st john",
+110
+],
+[
+"madison heights",
+"amherst county",
+109
+],
+[
+"shirley",
+"brookhaven",
+109
+],
+[
+"american fork",
+"highland",
+109
+],
+[
+"grenville",
+"greenville",
+109
+],
+[
+"houstno",
+"houston",
+109
+],
+[
+"rosemont",
+"sacramento",
+108
+],
+[
+"cihcago",
+"chicago",
+108
+],
+[
+"pheonix",
+"phoenix",
+108
+],
+[
+"raleih",
+"raleigh",
+108
+],
+[
+"tlusa",
+"tulsa",
+108
+],
+[
+"tlsa",
+"tulsa",
+108
+],
+[
+"saint albans",
+"st albans",
+108
+],
+[
+"austin cdp",
+"austin",
+107
+],
+[
+"sacramento township",
+"sacramento",
+107
+],
+[
+"portland cdp",
+"portland",
+107
+],
+[
+"charrlotte",
+"charlotte",
+107
+],
+[
+"new hyde park",
+"north hempstead",
+107
+],
+[
+"lebanon city",
+"lebanon",
+106
+],
+[
+"akon",
+"akron",
+106
+],
+[
+"memphis cdp",
+"memphis",
+106
+],
+[
+"knoxille",
+"knoxville",
+106
+],
+[
+"zachary",
+"zachary city",
+106
+],
+[
+"washington cdp",
+"washington",
+106
+],
+[
+"havre de grace",
+"city of havre de grace",
+106
+],
+[
+"sringfield",
+"springfield",
+105
+],
+[
+"irvig",
+"irving",
+105
+],
+[
+"riverton",
+"bluffdale sl co",
+105
+],
+[
+"enola",
+"east pennsboro township",
+105
+],
+[
+"bardstown county",
+"bardstown",
+105
+],
+[
+"selden",
+"brookhaven",
+105
+],
+[
+"pasadena city",
+"pasadena",
+105
+],
+[
+"melville",
+"huntington",
+105
+],
+[
+"brooklyn cdp",
+"brooklyn",
+105
+],
+[
+"old hickory",
+"nashville",
+104
+],
+[
+"old jamestown",
+"florissant",
+104
+],
+[
+"tacoma city",
+"tacoma",
+104
+],
+[
+"broklyn",
+"brooklyn",
+104
+],
+[
+"raleigh cdp",
+"raleigh",
+104
+],
+[
+"carlotte",
+"charlotte",
+104
+],
+[
+"valle",
+"williams",
+104
+],
+[
+"great falls",
+"fairfax county",
+103
+],
+[
+"kty",
+"katy",
+102
+],
+[
+"saint louis city",
+"saint louis",
+102
+],
+[
+"k",
+"unit k",
+102
+],
+[
+"little rock city",
+"little rock",
+102
+],
+[
+"chiccago",
+"chicago",
+102
+],
+[
+"chaarlotte",
+"charlotte",
+101
+],
+[
+"columus",
+"columbus",
+101
+],
+[
+"fayetteville township",
+"fayetteville",
+101
+],
+[
+"i",
+"unit i",
+101
+],
+[
+"littleton",
+"highlands ranch",
+101
+],
+[
+"nashhville",
+"nashville",
+101
+],
+[
+"bethpage",
+"oyster bay",
+100
+],
+[
+"austin township",
+"austin",
+100
+],
+[
+"st marys",
+"saint marys",
+100
+],
+[
+"defiance city",
+"defiance",
+100
+],
+[
+"uniondale",
+"hempstead",
+100
+],
+[
+"mt prospect",
+"mount prospect",
+100
+],
+[
+"locust grove",
+"orange county",
+100
+],
+[
+"washingtton",
+"washington",
+100
+],
+[
+"bnd",
+"bend",
+100
+],
+[
+"bronxville",
+"yonkers",
+99
+],
+[
+"cleveland cdp",
+"cleveland",
+99
+],
+[
+"tomah",
+"city of tomah",
+99
+],
+[
+"louisvlle",
+"louisville",
+99
+],
+[
+"l",
+"unit l",
+99
+],
+[
+"clarksville cdp",
+"clarksville",
+99
+],
+[
+"louisville township",
+"louisville",
+99
+],
+[
+"greensobro",
+"greensboro",
+98
+],
+[
+"georgetown city",
+"georgetown",
+98
+],
+[
+"richmond city",
+"richmond",
+98
+],
+[
+"eugene city",
+"eugene",
+98
+],
+[
+"atlanta cdp",
+"atlanta",
+98
+],
+[
+"n little rock",
+"north little rock",
+98
+],
+[
+"wappingers falls",
+"wappinger",
+98
+],
+[
+"holbrook",
+"islip",
+97
+],
+[
+"scottsdae",
+"scottsdale",
+97
+],
+[
+"winterville",
+"greenville",
+97
+],
+[
+"port jefferson station",
+"brookhaven",
+97
+],
+[
+"city of santa paula",
+"santa paula",
+96
+],
+[
+"waunakee",
+"village of waunakee",
+96
+],
+[
+"seaford",
+"hempstead",
+96
+],
+[
+"white plains",
+"greenburgh",
+96
+],
+[
+"canton city",
+"canton",
+96
+],
+[
+"phoenx",
+"phoenix",
+96
+],
+[
+"e paso",
+"city of el paso",
+96
+],
+[
+"reedsburg",
+"city of reedsburg",
+96
+],
+[
+"horsham",
+"horsham township",
+96
+],
+[
+"sacramento",
+"rancho cordova",
+96
+],
+[
+"dix hills",
+"huntington",
+96
+],
+[
+"casper",
+"natrona",
+95
+],
+[
+"adilabad",
+"rajasthan",
+95
+],
+[
+"north babylon",
+"babylon",
+95
+],
+[
+"salem city",
+"salem",
+95
+],
+[
+"charlottte",
+"charlotte",
+95
+],
+[
+"puyallup",
+"edgewood",
+95
+],
+[
+"dayton city",
+"dayton",
+95
+],
+[
+"condo",
+"in",
+95
+],
+[
+"clumbus",
+"columbus",
+95
+],
+[
+"scaramento",
+"sacramento",
+94
+],
+[
+"lubock",
+"lubbock",
+94
+],
+[
+"fayeteville",
+"fayetteville",
+93
+],
+[
+"mt sterling",
+"mount sterling",
+93
+],
+[
+"bockton",
+"brockton",
+93
+],
+[
+"anchorage city",
+"anchorage",
+93
+],
+[
+"ronkonkoma",
+"islip",
+93
+],
+[
+"quincy city",
+"quincy",
+93
+],
+[
+"dorchester center",
+"boston",
+93
+],
+[
+"albuqurque",
+"albuquerque",
+93
+],
+[
+"sacraento",
+"sacramento",
+93
+],
+[
+"louisa",
+"louisa county",
+92
+],
+[
+"bronx city",
+"bronx",
+92
+],
+[
+"greensboro cdp",
+"greensboro",
+92
+],
+[
+"kansas city cdp",
+"kansas city",
+92
+],
+[
+"highland",
+"lloyd",
+92
+],
+[
+"knoxvillle",
+"knoxville",
+92
+],
+[
+"indianaoplis",
+"indianapolis",
+91
+],
+[
+"spokane",
+"spokane valley",
+91
+],
+[
+"chrlotte",
+"charlotte",
+91
+],
+[
+"amarillo city",
+"amarillo",
+91
+],
+[
+"cyppress",
+"cypress",
+91
+],
+[
+"aberdeen",
+"city of aberdeen",
+90
+],
+[
+"eastern goleta valley",
+"santa barbara",
+90
+],
+[
+"indian orchard",
+"springfield",
+90
+],
+[
+"kings park",
+"smithtown",
+90
+],
+[
+"astin",
+"austin",
+90
+],
+[
+"dublin",
+"pulaski county",
+90
+],
+[
+"tuscon",
+"tucson",
+90
+],
+[
+"poenix",
+"phoenix",
+90
+],
+[
+"cortlandt manor",
+"cortlandt",
+89
+],
+[
+"altamont",
+"klamath falls",
+89
+],
+[
+"washigton",
+"washington",
+89
+],
+[
+"east amherst",
+"amherst",
+89
+],
+[
+"ridge",
+"brookhaven",
+89
+],
+[
+"brookyln",
+"brooklyn",
+89
+],
+[
+"live oak",
+"santa cruz",
+89
+],
+[
+"carrollton",
+"isle of wight county",
+89
+],
+[
+"prtland",
+"portland",
+89
+],
+[
+"toano",
+"james city county",
+89
+],
+[
+"hampton bays",
+"southampton",
+89
+],
+[
+"durham township",
+"durham",
+88
+],
+[
+"stoughton",
+"city of stoughton",
+88
+],
+[
+"bayport",
+"islip",
+88
+],
+[
+"brookside",
+"newark",
+88
+],
+[
+"baltimore cdp",
+"baltimore",
+88
+],
+[
+"poquoson",
+"poquoson city",
+88
+],
+[
+"saelm",
+"salem",
+88
+],
+[
+"greenwell springs",
+"central city",
+88
+],
+[
+"durham city",
+"durham",
+88
+],
+[
+"alexandria ky",
+"alexandria",
+88
+],
+[
+"e hampton",
+"east hampton",
+88
+],
+[
+"knoxivlle",
+"knoxville",
+88
+],
+[
+"huntsville city",
+"huntsville",
+88
+],
+[
+"baker",
+"baker city",
+88
+],
+[
+"tulas",
+"tulsa",
+88
+],
+[
+"louisviille",
+"louisville",
+87
+],
+[
+"louisvile",
+"louisville",
+87
+],
+[
+"east patchogue",
+"brookhaven",
+87
+],
+[
+"phoeinx",
+"phoenix",
+87
+],
+[
+"loisville",
+"louisville",
+87
+],
+[
+"rice lake",
+"city of rice lake",
+87
+],
+[
+"mill creek east",
+"bothell",
+87
+],
+[
+"west hempstead",
+"hempstead",
+87
+],
+[
+"yma",
+"yuma",
+87
+],
+[
+"new dehli",
+"new delhi",
+87
+],
+[
+"st louiis",
+"saint louis",
+87
+],
+[
+"staten island city",
+"staten island",
+86
+],
+[
+"surprise city",
+"surprise",
+86
+],
+[
+"tullsa",
+"tulsa",
+86
+],
+[
+"wasshington",
+"washington",
+86
+],
+[
+"two rivers",
+"city of two rivers",
+86
+],
+[
+"botson",
+"boston",
+86
+],
+[
+"charoltte",
+"charlotte",
+86
+],
+[
+"aurrora",
+"aurora",
+86
+],
+[
+"cambridge city",
+"cambridge",
+86
+],
+[
+"florence",
+"northampton",
+86
+],
+[
+"fort thomas ky",
+"fort thomas",
+85
+],
+[
+"sandston",
+"henrico county",
+85
+],
+[
+"hayes",
+"gloucester county",
+85
+],
+[
+"mobile township",
+"mobile",
+85
+],
+[
+"chandler city",
+"chandler",
+85
+],
+[
+"centerville",
+"barnstable",
+85
+],
+[
+"sussex",
+"village of sussex",
+85
+],
+[
+"st albans",
+"saint albans",
+84
+],
+[
+"north lynnwood",
+"lynnwood",
+84
+],
+[
+"murfreesboro city",
+"murfreesboro",
+84
+],
+[
+"eugee",
+"eugene",
+84
+],
+[
+"plainfield",
+"joliet",
+84
+],
+[
+"hatboro",
+"upper moreland township",
+84
+],
+[
+"tucsno",
+"tucson",
+84
+],
+[
+"wallingford center",
+"wallingford",
+83
+],
+[
+"holmen",
+"village of holmen",
+83
+],
+[
+"ashland city",
+"ashland",
+83
+],
+[
+"independence",
+"seven hills",
+83
+],
+[
+"yuma city",
+"yuma",
+83
+],
+[
+"mt carmel",
+"mount carmel",
+83
+],
+[
+"hamilton twp",
+"maineville",
+83
+],
+[
+"chiacgo",
+"chicago",
+83
+],
+[
+"bed",
+"bend",
+83
+],
+[
+"portand",
+"portland",
+83
+],
+[
+"ivins",
+"ivins town",
+83
+],
+[
+"brooklyn township",
+"brooklyn",
+82
+],
+[
+"lousville",
+"louisville",
+82
+],
+[
+"fayetteville cdp",
+"fayetteville",
+82
+],
+[
+"spirng",
+"spring",
+82
+],
+[
+"river falls",
+"city of river falls",
+82
+],
+[
+"jericho",
+"oyster bay",
+82
+],
+[
+"s jordan",
+"south jordan",
+82
+],
+[
+"oro valley",
+"saddlebrooke",
+82
+],
+[
+"knoxvile",
+"knoxville",
+82
+],
+[
+"chicaago",
+"chicago",
+82
+],
+[
+"building building",
+"bldg building",
+82
+],
+[
+"anaconda",
+"anaconda deer lodge",
+82
+],
+[
+"kaaty",
+"katy",
+82
+],
+[
+"toledo city",
+"toledo",
+81
+],
+[
+"newark city",
+"newark",
+81
+],
+[
+"city of fillmore",
+"fillmore",
+81
+],
+[
+"birmingham city",
+"birmingham",
+81
+],
+[
+"fairfax station",
+"fairfax county",
+81
+],
+[
+"peria",
+"peoria",
+81
+],
+[
+"stuarts draft",
+"augusta county",
+81
+],
+[
+"raliegh",
+"raleigh",
+81
+],
+[
+"olmsted falls",
+"olmsted township",
+81
+],
+[
+"lexington city",
+"lexington",
+81
+],
+[
+"violet twp",
+"pickerington",
+80
+],
+[
+"clifton",
+"fairfax county",
+80
+],
+[
+"unit e",
+"unit unit e",
+80
+],
+[
+"copley twp",
+"akron",
+80
+],
+[
+"north logan",
+"logan city",
+80
+],
+[
+"elkins park",
+"cheltenham township",
+80
+],
+[
+"poeria",
+"peoria",
+80
+],
+[
+"saint james",
+"smithtown",
+80
+],
+[
+"oakton",
+"fairfax county",
+80
+],
+[
+"bumpass",
+"louisa county",
+80
+],
+[
+"mineral",
+"louisa county",
+80
+],
+[
+"worcestr",
+"worcester",
+80
+],
+[
+"jacksonville city",
+"jacksonville",
+80
+],
+[
+"aurora township",
+"aurora",
+80
+],
+[
+"manorville",
+"brookhaven",
+80
+],
+[
+"bostton",
+"boston",
+79
+],
+[
+"columbuus",
+"columbus",
+79
+],
+[
+"austn",
+"austin",
+79
+],
+[
+"albany city",
+"albany",
+79
+],
+[
+"charlottte city",
+"charlotte",
+79
+],
+[
+"oklahoma city",
+"midwest city",
+79
+],
+[
+"nashviille",
+"nashville",
+79
+],
+[
+"rocky point",
+"brookhaven",
+79
+],
+[
+"portland township",
+"portland",
+79
+],
+[
+"wshington",
+"washington",
+79
+],
+[
+"parkway",
+"sacramento",
+79
+],
+[
+"broolkyn",
+"brooklyn",
+79
+],
+[
+"apt e",
+"unit apt e",
+78
+],
+[
+"e lyme",
+"east lyme",
+78
+],
+[
+"mckiinney",
+"mckinney",
+78
+],
+[
+"wicchita",
+"wichita",
+78
+],
+[
+"cicinnati",
+"cincinnati",
+78
+],
+[
+"tolledo",
+"toledo",
+78
+],
+[
+"santaquin",
+"santaquin city utah co",
+78
+],
+[
+"city of port hueneme",
+"port hueneme",
+78
+],
+[
+"medford city",
+"medford",
+78
+],
+[
+"marinette",
+"city of marinette",
+78
+],
+[
+"asheville",
+"woodfin",
+78
+],
+[
+"cry",
+"cary",
+78
+],
+[
+"peoria city",
+"peoria",
+78
+],
+[
+"auburn city",
+"auburn",
+78
+],
+[
+"chicao",
+"chicago",
+77
+],
+[
+"surprise dysart retail",
+"surprise",
+77
+],
+[
+"temep",
+"tempe",
+77
+],
+[
+"bloomington city",
+"bloomington",
+77
+],
+[
+"round rock city",
+"round rock",
+77
+],
+[
+"brookln",
+"brooklyn",
+77
+],
+[
+"arlington cdp",
+"arlington",
+77
+],
+[
+"fargo city",
+"fargo",
+77
+],
+[
+"jerome twp",
+"plain city",
+76
+],
+[
+"akkron",
+"akron",
+76
+],
+[
+"lnn",
+"lynn",
+76
+],
+[
+"nesconset",
+"smithtown",
+76
+],
+[
+"indiaanapolis",
+"indianapolis",
+76
+],
+[
+"cedarburg",
+"city of cedarburg",
+76
+],
+[
+"chicaggo",
+"chicago",
+76
+],
+[
+"everett city",
+"everett",
+76
+],
+[
+"bothell west",
+"bothell",
+76
+],
+[
+"amelia court house",
+"amelia county",
+76
+],
+[
+"anderson creek",
+"spring lake",
+76
+],
+[
+"henrico city",
+"henrico county",
+76
+],
+[
+"american twp",
+"lima",
+76
+],
+[
+"triangle",
+"prince william county",
+76
+],
+[
+"salisbury city",
+"salisbury",
+76
+],
+[
+"grundy",
+"buchanan county",
+76
+],
+[
+"e haddam",
+"east haddam",
+75
+],
+[
+"floor ground floor",
+"fl ground floor",
+75
+],
+[
+"wynnewood",
+"lower merion township",
+75
+],
+[
+"abluquerque",
+"albuquerque",
+75
+],
+[
+"collumbus",
+"columbus",
+75
+],
+[
+"coulmbia",
+"columbia",
+75
+],
+[
+"gilbeert",
+"gilbert",
+75
+],
+[
+"seatttle",
+"seattle",
+75
+],
+[
+"fort worth city",
+"fort worth",
+75
+],
+[
+"pris",
+"paris",
+75
+],
+[
+"colubmus",
+"columbus",
+75
+],
+[
+"apartment f",
+"unit apartment f",
+75
+],
+[
+"abington",
+"abington township",
+75
+],
+[
+"new delih",
+"new delhi",
+75
+],
+[
+"hyattsville city",
+"hyattsville",
+75
+],
+[
+"sacrameno",
+"sacramento",
+75
+],
+[
+"new dehi",
+"new delhi",
+75
+],
+[
+"concord city",
+"concord",
+74
+],
+[
+"franklin city",
+"franklin",
+74
+],
+[
+"asheville city",
+"asheville",
+74
+],
+[
+"cininnati",
+"cincinnati",
+74
+],
+[
+"portlad",
+"portland",
+74
+],
+[
+"east islip",
+"islip",
+74
+],
+[
+"apartment e",
+"unit apartment e",
+74
+],
+[
+"hartsdale",
+"greenburgh",
+74
+],
+[
+"middletown cdp",
+"middletown",
+74
+],
+[
+"houuston",
+"houston",
+74
+],
+[
+"austtin",
+"austin",
+74
+],
+[
+"saccramento",
+"sacramento",
+74
+],
+[
+"tacma",
+"tacoma",
+74
+],
+[
+"fontna",
+"fontana",
+73
+],
+[
+"tulssa",
+"tulsa",
+73
+],
+[
+"crivitz",
+"town of stephenson",
+73
+],
+[
+"charltote",
+"charlotte",
+73
+],
+[
+"eastmont",
+"everett",
+73
+],
+[
+"wichhita",
+"wichita",
+73
+],
+[
+"monticello",
+"thompson",
+73
+],
+[
+"rear",
+"unit rear",
+73
+],
+[
+"west henrietta",
+"henrietta",
+73
+],
+[
+"w des moines",
+"west des moines",
+73
+],
+[
+"patchogue",
+"brookhaven",
+73
+],
+[
+"omha",
+"omaha",
+73
+],
+[
+"de forest",
+"village of deforest",
+73
+],
+[
+"chralotte",
+"charlotte",
+72
+],
+[
+"aron",
+"akron",
+72
+],
+[
+"dennisport",
+"dennis",
+72
+],
+[
+"bostn",
+"boston",
+72
+],
+[
+"middle island",
+"brookhaven",
+72
+],
+[
+"south dennis",
+"dennis",
+72
+],
+[
+"w union",
+"west union",
+72
+],
+[
+"lebnaon",
+"lebanon",
+72
+],
+[
+"bufffalo",
+"buffalo",
+72
+],
+[
+"heathsville",
+"northumberland county",
+72
+],
+[
+"daytton",
+"dayton",
+72
+],
+[
+"akrn",
+"akron",
+72
+],
+[
+"bend city",
+"bend",
+72
+],
+[
+"grafton",
+"village of grafton",
+72
+],
+[
+"north highlands",
+"sacramento",
+72
+],
+[
+"louiville",
+"louisville",
+71
+],
+[
+"gilbert city",
+"gilbert",
+71
+],
+[
+"st lois",
+"saint louis",
+71
+],
+[
+"suagr land",
+"sugar land",
+71
+],
+[
+"hamilton city",
+"hamilton",
+71
+],
+[
+"wake forest cdp",
+"wake forest",
+71
+],
+[
+"farmingville",
+"brookhaven",
+71
+],
+[
+"washinton",
+"washington",
+71
+],
+[
+"youngstown city",
+"youngstown",
+71
+],
+[
+"bufaflo",
+"buffalo",
+71
+],
+[
+"ontario city",
+"ontario",
+70
+],
+[
+"manesar",
+"delhi",
+70
+],
+[
+"booklyn",
+"brooklyn",
+70
+],
+[
+"slem",
+"salem",
+70
+],
+[
+"apt f",
+"unit apt f",
+70
+],
+[
+"rio rancho city",
+"rio rancho",
+70
+],
+[
+"georetown",
+"georgetown",
+70
+],
+[
+"chharlotte",
+"charlotte",
+70
+],
+[
+"nashvillle",
+"nashville",
+70
+],
+[
+"glendale city",
+"glendale",
+70
+],
+[
+"waukkegan",
+"waukegan",
+70
+],
+[
+"sprig",
+"spring",
+70
+],
+[
+"sacramneto",
+"sacramento",
+70
+],
+[
+"beachwood",
+"shaker heights",
+70
+],
+[
+"cleeland",
+"cleveland",
+69
+],
+[
+"hatfield",
+"hatfield township",
+69
+],
+[
+"athens city",
+"athens",
+69
+],
+[
+"mc lean",
+"fairfax county",
+69
+],
+[
+"perrysburg twp",
+"perrysburg",
+69
+],
+[
+"ft owrth",
+"fort worth",
+69
+],
+[
+"mt holly",
+"mount holly",
+69
+],
+[
+"teme",
+"tempe",
+69
+],
+[
+"keller city",
+"keller",
+69
+],
+[
+"farington",
+"farmington",
+69
+],
+[
+"peroia",
+"peoria",
+69
+],
+[
+"pohenix",
+"phoenix",
+69
+],
+[
+"katy cty",
+"katy",
+69
+],
+[
+"troutville",
+"botetourt county",
+69
+],
+[
+"scramento city",
+"sacramento",
+69
+],
+[
+"wilmingtn",
+"wilmington",
+69
+],
+[
+"cary township",
+"cary",
+69
+],
+[
+"lafayette hill",
+"whitemarsh township",
+69
+],
+[
+"mastic",
+"brookhaven",
+69
+],
+[
+"ceveland",
+"cleveland",
+69
+],
+[
+"woodmere",
+"hempstead",
+69
+],
+[
+"green valley",
+"sahuarita",
+69
+],
+[
+"washingotn",
+"washington",
+68
+],
+[
+"lake norman of iredell",
+"mooresville",
+68
+],
+[
+"ruckersville",
+"greene county",
+68
+],
+[
+"baltimorre",
+"baltimore",
+68
+],
+[
+"glendle",
+"glendale",
+68
+],
+[
+"calverton",
+"riverhead",
+68
+],
+[
+"freerick",
+"frederick",
+68
+],
+[
+"holtsville",
+"brookhaven",
+68
+],
+[
+"mc farland",
+"village of mcfarland",
+68
+],
+[
+"chattanooga city",
+"chattanooga",
+68
+],
+[
+"newarrk",
+"newark",
+68
+],
+[
+"aburn",
+"auburn",
+68
+],
+[
+"janesville",
+"city of janesville",
+68
+],
+[
+"chicaog",
+"chicago",
+68
+],
+[
+"salem township",
+"salem",
+68
+],
+[
+"raaleigh",
+"raleigh",
+68
+],
+[
+"andover twp",
+"andover",
+68
+],
+[
+"orange",
+"orange county",
+68
+],
+[
+"coventry twp",
+"akron",
+68
+],
+[
+"plymouth meeting",
+"plymouth township",
+67
+],
+[
+"roosevelt",
+"hempstead",
+67
+],
+[
+"webster",
+"penfield",
+67
+],
+[
+"watervliet",
+"colonie",
+67
+],
+[
+"cinciinnati",
+"cincinnati",
+67
+],
+[
+"little chute",
+"village of little chute",
+67
+],
+[
+"apache junction city",
+"apache junction",
+67
+],
+[
+"houson city",
+"houston",
+67
+],
+[
+"greenwood township",
+"greenwood",
+67
+],
+[
+"nokesville",
+"prince william county",
+67
+],
+[
+"knoxville township",
+"knoxville",
+67
+],
+[
+"peoria cdp",
+"peoria",
+67
+],
+[
+"portladn township",
+"portland",
+67
+],
+[
+"rihmond",
+"richmond",
+67
+],
+[
+"tucsn",
+"tucson",
+67
+],
+[
+"akron",
+"newstead",
+67
+],
+[
+"seattlle",
+"seattle",
+67
+],
+[
+"clarence center",
+"clarence",
+67
+],
+[
+"grenfield",
+"greenfield",
+67
+],
+[
+"new kent",
+"new kent county",
+67
+],
+[
+"florence city",
+"florence",
+67
+],
+[
+"newark township",
+"newark",
+66
+],
+[
+"crown point",
+"winfield",
+66
+],
+[
+"charlotte cdp",
+"charlotte",
+66
+],
+[
+"quncy",
+"quincy",
+66
+],
+[
+"virgini beach",
+"virginia beach city",
+66
+],
+[
+"iowa city city",
+"iowa city",
+66
+],
+[
+"nashvilel",
+"nashville",
+66
+],
+[
+"ste a",
+"unit ste a",
+66
+],
+[
+"frrankfort",
+"frankfort",
+66
+],
+[
+"brokolyn",
+"brooklyn",
+66
+],
+[
+"washignton",
+"washington",
+66
+],
+[
+"north tonawanda",
+"wheatfield",
+66
+],
+[
+"troy city",
+"troy",
+66
+],
+[
+"ketchikan",
+"ketchikan gateway borough",
+66
+],
+[
+"bowling green city",
+"bowling green",
+66
+],
+[
+"cincinnati cdp",
+"cincinnati",
+66
+],
+[
+"monroe city",
+"monroe",
+66
+],
+[
+"tooledo",
+"toledo",
+66
+],
+[
+"rockford city",
+"rockford",
+66
+],
+[
+"naperville city",
+"naperville",
+66
+],
+[
+"beaverrton",
+"beaverton",
+66
+],
+[
+"settle",
+"seattle",
+66
+],
+[
+"spencerport",
+"ogden",
+66
+],
+[
+"naashville",
+"nashville",
+65
+],
+[
+"baltimroe",
+"baltimore",
+65
+],
+[
+"carry",
+"cary",
+65
+],
+[
+"overgaard",
+"heber",
+65
+],
+[
+"woodbridge city",
+"prince william county",
+65
+],
+[
+"dewey",
+"prescott valley",
+65
+],
+[
+"johnson city township",
+"johnson city",
+65
+],
+[
+"pleasant prairie",
+"village of pleasant prairie",
+65
+],
+[
+"vancouver city",
+"vancouver",
+65
+],
+[
+"ashurn",
+"loudoun county",
+65
+],
+[
+"salt lake city cdp",
+"salt lake city",
+65
+],
+[
+"lake st louis",
+"lake saint louis",
+65
+],
+[
+"billings city",
+"billings",
+65
+],
+[
+"sa tan valley",
+"san tan valley",
+65
+],
+[
+"clevelannd",
+"cleveland",
+65
+],
+[
+"willimantic",
+"windham",
+65
+],
+[
+"tucsoon",
+"tucson",
+65
+],
+[
+"round lake",
+"round lake beach",
+65
+],
+[
+"brooklny",
+"brooklyn",
+65
+],
+[
+"st luis",
+"saint louis",
+65
+],
+[
+"chatham",
+"pittsylvania county",
+65
+],
+[
+"shawnee twp",
+"lima",
+65
+],
+[
+"motngomery",
+"montgomery",
+65
+],
+[
+"albany cdp",
+"albany",
+65
+],
+[
+"atlannta",
+"atlanta",
+65
+],
+[
+"bainbridge twp",
+"chagrin falls",
+65
+],
+[
+"dallas city",
+"dallas",
+65
+],
+[
+"suite a",
+"unit suite a",
+65
+],
+[
+"norman city",
+"norman",
+65
+],
+[
+"bosotn",
+"boston",
+64
+],
+[
+"perkins twp",
+"sandusky",
+64
+],
+[
+"show low",
+"wmat",
+64
+],
+[
+"memphhis",
+"memphis",
+64
+],
+[
+"celveland",
+"cleveland",
+64
+],
+[
+"stuart",
+"patrick county",
+64
+],
+[
+"willowbrook",
+"burr ridge",
+64
+],
+[
+"spring city",
+"spring",
+64
+],
+[
+"mesquite city",
+"mesquite",
+64
+],
+[
+"elmwood park",
+"chicago",
+64
+],
+[
+"terre haute city",
+"terre haute",
+64
+],
+[
+"virginia beach cdp",
+"virginia beach city",
+64
+],
+[
+"austiin",
+"austin",
+64
+],
+[
+"akron city",
+"akron",
+64
+],
+[
+"whitesboro",
+"whitestown",
+64
+],
+[
+"kensington",
+"berlin",
+64
+],
+[
+"mckniney",
+"mckinney",
+64
+],
+[
+"apt h",
+"unit apt h",
+64
+],
+[
+"kiilleen",
+"killeen",
+64
+],
+[
+"ft dodge",
+"fort dodge",
+64
+],
+[
+"tacooma",
+"tacoma",
+63
+],
+[
+"ridgeway",
+"henry county",
+63
+],
+[
+"valley stream",
+"hempstead",
+63
+],
+[
+"marshall",
+"fauquier county",
+63
+],
+[
+"htto",
+"hutto",
+63
+],
+[
+"spokane city",
+"spokane",
+63
+],
+[
+"mckiney city",
+"mckinney",
+63
+],
+[
+"beaverton city",
+"beaverton",
+63
+],
+[
+"richomnd",
+"richmond",
+63
+],
+[
+"wichita township",
+"wichita",
+63
+],
+[
+"poughkeepsie",
+"la grange",
+63
+],
+[
+"spingfield",
+"springfield",
+63
+],
+[
+"tucon",
+"tucson",
+63
+],
+[
+"brrooklyn",
+"brooklyn",
+63
+],
+[
+"tulsa cdp",
+"tulsa",
+63
+],
+[
+"friso",
+"frisco",
+63
+],
+[
+"rancho cucamonga township",
+"rancho cucamonga",
+63
+],
+[
+"bear",
+"newark",
+63
+],
+[
+"canton twp",
+"canton",
+63
+],
+[
+"chicgo",
+"chicago",
+63
+],
+[
+"wahington",
+"washington",
+63
+],
+[
+"lowell city",
+"lowell",
+63
+],
+[
+"albuquerque township",
+"albuquerque",
+63
+],
+[
+"aubburn",
+"auburn",
+63
+],
+[
+"inianapolis",
+"indianapolis",
+62
+],
+[
+"farmngton",
+"farmington",
+62
+],
+[
+"elp aso",
+"city of el paso",
+62
+],
+[
+"sacramento cdp",
+"sacramento",
+62
+],
+[
+"sprnigfield",
+"springfield",
+62
+],
+[
+"hilllsboro",
+"hillsboro",
+62
+],
+[
+"pt orchard",
+"port orchard",
+62
+],
+[
+"syracuse city",
+"syracuse",
+62
+],
+[
+"arington",
+"arlington",
+62
+],
+[
+"melrose park",
+"northlake",
+62
+],
+[
+"murray",
+"millcreek",
+62
+],
+[
+"wynantskill",
+"north greenbush",
+62
+],
+[
+"newak",
+"newark",
+62
+],
+[
+"indiaanpolis",
+"indianapolis",
+62
+],
+[
+"chralotte city",
+"charlotte",
+62
+],
+[
+"coolumbus",
+"columbus",
+62
+],
+[
+"lincoln township",
+"lincoln",
+62
+],
+[
+"snyderville",
+"park city",
+62
+],
+[
+"independence city",
+"independence",
+62
+],
+[
+"winsted",
+"winchester",
+62
+],
+[
+"mount sinai",
+"brookhaven",
+62
+],
+[
+"max meadows",
+"wythe county",
+61
+],
+[
+"balimore",
+"baltimore",
+61
+],
+[
+"washingtno",
+"washington",
+61
+],
+[
+"wilmington township",
+"wilmington",
+61
+],
+[
+"porland",
+"portland",
+61
+],
+[
+"decatur city",
+"decatur",
+61
+],
+[
+"pleasant grove",
+"cedar hills",
+61
+],
+[
+"memhpis",
+"memphis",
+61
+],
+[
+"greenville city",
+"greenville",
+61
+],
+[
+"prince george",
+"prince george county",
+61
+],
+[
+"conroe city",
+"conroe",
+61
+],
+[
+"ft payne",
+"fort payne",
+61
+],
+[
+"puyallup city",
+"puyallup",
+61
+],
+[
+"charlote city",
+"charlotte",
+61
+],
+[
+"sacrameto",
+"sacramento",
+61
+],
+[
+"clveeland",
+"cleveland",
+61
+],
+[
+"hinckley",
+"hinckley township",
+61
+],
+[
+"s louis",
+"saint louis",
+61
+],
+[
+"broolyn",
+"brooklyn",
+61
+],
+[
+"elkton",
+"rockingham county",
+61
+],
+[
+"hagerstown city",
+"hagerstown",
+61
+],
+[
+"woodbridge cdp",
+"prince william county",
+60
+],
+[
+"clarksville city",
+"clarksville",
+60
+],
+[
+"castlewood",
+"russell county",
+60
+],
+[
+"austni",
+"austin",
+60
+],
+[
+"louisvillle",
+"louisville",
+60
+],
+[
+"chanlder",
+"chandler",
+60
+],
+[
+"washingtoncity",
+"washington",
+60
+],
+[
+"batlimore",
+"baltimore",
+60
+],
+[
+"rund rock",
+"round rock",
+60
+],
+[
+"manakin sabot",
+"goochland county",
+60
+],
+[
+"richardson city",
+"richardson",
+60
+],
+[
+"decorah township",
+"decorah",
+60
+],
+[
+"ste b",
+"unit ste b",
+60
+],
+[
+"white mountain lake",
+"show low",
+60
+],
+[
+"chicago heights",
+"sauk village",
+60
+],
+[
+"glens falls north",
+"queensbury",
+60
+],
+[
+"cambridgge",
+"cambridge",
+60
+],
+[
+"east massapequa",
+"oyster bay",
+60
+],
+[
+"chincoteague island",
+"chincoteague town",
+60
+],
+[
+"tuccson",
+"tucson",
+59
+],
+[
+"marysville city",
+"marysville",
+59
+],
+[
+"killeen city",
+"killeen",
+59
+],
+[
+"chester twp",
+"chesterland",
+59
+],
+[
+"winchester city",
+"winchester",
+59
+],
+[
+"stony brook",
+"brookhaven",
+59
+],
+[
+"fal river",
+"fall river",
+59
+],
+[
+"carrmichael",
+"carmichael",
+59
+],
+[
+"johnson cty",
+"johnson city",
+59
+],
+[
+"tucson cdp",
+"tucson",
+59
+],
+[
+"charleston city",
+"charleston",
+59
+],
+[
+"galatin",
+"gallatin",
+59
+],
+[
+"roseland",
+"nelson county",
+59
+],
+[
+"mastic beach",
+"brookhaven",
+59
+],
+[
+"chattaooga",
+"chattanooga",
+59
+],
+[
+"el paso cdp",
+"city of el paso",
+59
+],
+[
+"plymouth city",
+"plymouth",
+59
+],
+[
+"santa clara",
+"santa clara city",
+59
+],
+[
+"littleton city",
+"highlands ranch",
+59
+],
+[
+"churu",
+"maharashtra",
+59
+],
+[
+"cambridge cdp",
+"cambridge",
+59
+],
+[
+"fort wworth",
+"fort worth",
+58
+],
+[
+"colummbus",
+"columbus",
+58
+],
+[
+"tucson cty",
+"tucson",
+58
+],
+[
+"des moines city",
+"des moines",
+58
+],
+[
+"ft wrth",
+"fort worth",
+58
+],
+[
+"spring township",
+"spring",
+58
+],
+[
+"clinton city",
+"clinton",
+58
+],
+[
+"new dlhi",
+"new delhi",
+58
+],
+[
+"greensboro township",
+"greensboro",
+58
+],
+[
+"cumberland center",
+"cumberland",
+58
+],
+[
+"louissville",
+"louisville",
+58
+],
+[
+"pt arthur",
+"port arthur",
+58
+],
+[
+"rio del mar",
+"aptos",
+58
+],
+[
+"antich",
+"nashville",
+58
+],
+[
+"albuqueruqe",
+"albuquerque",
+58
+],
+[
+"mansfield city",
+"mansfield",
+58
+],
+[
+"lindenhurst",
+"babylon",
+58
+],
+[
+"wise",
+"wise county",
+58
+],
+[
+"nashvlle",
+"nashville",
+58
+],
+[
+"dayton ky",
+"dayton",
+58
+],
+[
+"chugach census area",
+"valdez",
+58
+],
+[
+"portlnd",
+"portland",
+58
+],
+[
+"ft wotrh",
+"fort worth",
+58
+],
+[
+"crozet",
+"albemarle county",
+58
+],
+[
+"saint leonard",
+"st leonard",
+58
+],
+[
+"lehi",
+"saratoga springs",
+58
+],
+[
+"snow hill",
+"greene",
+58
+],
+[
+"platteville",
+"city of platteville",
+58
+],
+[
+"rochester cdp",
+"rochester",
+58
+],
+[
+"omaaha",
+"omaha",
+57
+],
+[
+"e windsor",
+"east windsor",
+57
+],
+[
+"nashvillecity",
+"nashville",
+57
+],
+[
+"mobiile",
+"mobile",
+57
+],
+[
+"montgomry",
+"montgomery",
+57
+],
+[
+"wilmington cdp",
+"wilmington",
+57
+],
+[
+"surprsie",
+"surprise",
+57
+],
+[
+"kernersville",
+"winston salem",
+57
+],
+[
+"saramento",
+"sacramento",
+57
+],
+[
+"cincinnnati",
+"cincinnati",
+57
+],
+[
+"renton city",
+"renton",
+57
+],
+[
+"riichmond",
+"richmond",
+57
+],
+[
+"rustburg",
+"campbell county",
+57
+],
+[
+"north valley",
+"albuquerque",
+57
+],
+[
+"syracsue",
+"syracuse",
+57
+],
+[
+"el paso township",
+"city of el paso",
+57
+],
+[
+"montgomeyr",
+"montgomery",
+57
+],
+[
+"pinetop country club",
+"pinetop",
+57
+],
+[
+"maumelle",
+"north little rock",
+57
+],
+[
+"wilmingon",
+"wilmington",
+57
+],
+[
+"omhaa",
+"omaha",
+57
+],
+[
+"sprigfield",
+"springfield",
+57
+],
+[
+"irvign",
+"irving",
+57
+],
+[
+"porttland",
+"portland",
+57
+],
+[
+"willow grove",
+"upper moreland township",
+57
+],
+[
+"middletown city",
+"middletown",
+57
+],
+[
+"ft thomas",
+"fort thomas",
+57
+],
+[
+"charlottecity",
+"charlotte",
+56
+],
+[
+"waldof",
+"waldorf",
+56
+],
+[
+"kansas cty",
+"kansas city",
+56
+],
+[
+"knoxville cdp",
+"knoxville",
+56
+],
+[
+"lancaster",
+"lancaster county",
+56
+],
+[
+"carmichel",
+"carmichael",
+56
+],
+[
+"durrham",
+"durham",
+56
+],
+[
+"indiaapolis",
+"indianapolis",
+56
+],
+[
+"buckeye",
+"maricopa county",
+56
+],
+[
+"oamha",
+"omaha",
+56
+],
+[
+"albnay",
+"albany",
+56
+],
+[
+"gallattin",
+"gallatin",
+56
+],
+[
+"black mesa",
+"snowflake",
+56
+],
+[
+"oaha",
+"omaha",
+56
+],
+[
+"cleveand",
+"cleveland",
+56
+],
+[
+"drham",
+"durham",
+56
+],
+[
+"mansfield",
+"ontario",
+56
+],
+[
+"phoeniix",
+"phoenix",
+56
+],
+[
+"montomery",
+"montgomery",
+56
+],
+[
+"conord",
+"concord",
+56
+],
+[
+"kodiak",
+"kodiak island borough",
+56
+],
+[
+"auustin",
+"austin",
+56
+],
+[
+"staten island cdp",
+"staten island",
+56
+],
+[
+"bohemia",
+"islip",
+56
+],
+[
+"cicago city",
+"chicago",
+56
+],
+[
+"burlington city",
+"burlington",
+56
+],
+[
+"wasington",
+"washington",
+55
+],
+[
+"alln",
+"allen",
+55
+],
+[
+"mooresville township",
+"mooresville",
+55
+],
+[
+"princeton city",
+"princeton",
+55
+],
+[
+"la riviera",
+"sacramento",
+55
+],
+[
+"lake placid",
+"north elba",
+55
+],
+[
+"channdler",
+"chandler",
+55
+],
+[
+"houma city",
+"houma",
+55
+],
+[
+"ralegh cdp",
+"raleigh",
+55
+],
+[
+"vancouver township",
+"vancouver",
+55
+],
+[
+"greenvlle",
+"greenville",
+55
+],
+[
+"washingtn township",
+"washington",
+55
+],
+[
+"knxville",
+"knoxville",
+55
+],
+[
+"coluumbus",
+"columbus",
+55
+],
+[
+"lubboock",
+"lubbock",
+55
+],
+[
+"o fallon city",
+"ofallon",
+55
+],
+[
+"nashvlile",
+"nashville",
+55
+],
+[
+"aes",
+"ames",
+55
+],
+[
+"virginia beach township",
+"virginia beach city",
+55
+],
+[
+"lenader township",
+"leander",
+55
+],
+[
+"fairmount",
+"camillus",
+55
+],
+[
+"new franklin",
+"akron",
+55
+],
+[
+"huntington city",
+"huntington",
+55
+],
+[
+"phhoenix",
+"phoenix",
+55
+],
+[
+"marino",
+"marion",
+55
+],
+[
+"beacon",
+"fishkill",
+55
+],
+[
+"haleyville",
+"haleyville city",
+55
+],
+[
+"omahha",
+"omaha",
+55
+],
+[
+"peoria township",
+"peoria",
+55
+],
+[
+"memphs",
+"memphis",
+55
+],
+[
+"calabash",
+"carolina shores",
+55
+],
+[
+"round roock",
+"round rock",
+55
+],
+[
+"greenlawn",
+"huntington",
+54
+],
+[
+"sring",
+"spring",
+54
+],
+[
+"lake ronkonkoma",
+"brookhaven",
+54
+],
+[
+"turtlecreek twp",
+"lebanon",
+54
+],
+[
+"st louis park",
+"saint louis park",
+54
+],
+[
+"winston salem township",
+"winston salem",
+54
+],
+[
+"allston",
+"boston",
+54
+],
+[
+"brronx",
+"bronx",
+54
+],
+[
+"scottsdale",
+"phoenix",
+54
+],
+[
+"quinton",
+"new kent county",
+54
+],
+[
+"humble city",
+"humble",
+54
+],
+[
+"rajamahendravaram",
+"rajahmundry",
+54
+],
+[
+"bel air",
+"town of bel air",
+54
+],
+[
+"albuqueque",
+"albuquerque",
+54
+],
+[
+"grants pass city",
+"grants pass",
+54
+],
+[
+"no branford",
+"north branford",
+54
+],
+[
+"s portland",
+"south portland",
+54
+],
+[
+"simi valley city",
+"simi valley",
+54
+],
+[
+"ft woth",
+"fort worth",
+54
+],
+[
+"antioc hcity",
+"nashville",
+54
+],
+[
+"hillsbro",
+"hillsboro",
+54
+],
+[
+"anchor point",
+"kenai peninsula borough",
+54
+],
+[
+"woods cross",
+"woods cross city",
+54
+],
+[
+"south lockport",
+"lockport",
+54
+],
+[
+"ravenna twp",
+"ravenna",
+54
+],
+[
+"sacrametno",
+"sacramento",
+53
+],
+[
+"daytno",
+"dayton",
+53
+],
+[
+"brownsville city",
+"brownsville",
+53
+],
+[
+"bracey",
+"mecklenburg county",
+53
+],
+[
+"baltimore township",
+"baltimore",
+53
+],
+[
+"appomattox",
+"appomattox county",
+53
+],
+[
+"columubs",
+"columbus",
+53
+],
+[
+"moab",
+"moab city",
+53
+],
+[
+"tuulsa",
+"tulsa",
+53
+],
+[
+"m",
+"unit m",
+53
+],
+[
+"cypress city",
+"cypress",
+53
+],
+[
+"odenville",
+"margaret",
+53
+],
+[
+"costa mesa city",
+"costa mesa",
+53
+],
+[
+"unit f",
+"unit unit f",
+53
+],
+[
+"rock hill city",
+"rock hill",
+53
+],
+[
+"methun",
+"methuen",
+53
+],
+[
+"mboile",
+"mobile",
+53
+],
+[
+"fort wayne city",
+"fort wayne",
+53
+],
+[
+"helena",
+"helena west helena",
+53
+],
+[
+"miller place",
+"brookhaven",
+53
+],
+[
+"coulmbus",
+"columbus",
+53
+],
+[
+"plymoth",
+"plymouth",
+53
+],
+[
+"sugar lannd",
+"sugar land",
+53
+],
+[
+"gilbert cdp",
+"gilbert",
+53
+],
+[
+"selby",
+"shelby",
+53
+],
+[
+"sagamore hills twp",
+"northfield",
+53
+],
+[
+"bala cynwyd",
+"lower merion township",
+53
+],
+[
+"springs",
+"east hampton",
+53
+],
+[
+"mbile",
+"mobile",
+53
+],
+[
+"fort atkinson",
+"city of fort atkinson",
+53
+],
+[
+"saettle",
+"seattle",
+53
+],
+[
+"attlanta",
+"atlanta",
+53
+],
+[
+"peabody dcp",
+"peabody",
+53
+],
+[
+"auburrn",
+"auburn",
+53
+],
+[
+"granbury",
+"acton",
+53
+],
+[
+"marlboro",
+"marlborough",
+53
+],
+[
+"katy township",
+"katy",
+53
+],
+[
+"mesquie",
+"mesquite",
+53
+],
+[
+"annpolis",
+"annapolis",
+53
+],
+[
+"duham",
+"durham",
+53
+],
+[
+"scramento",
+"sacramento",
+53
+],
+[
+"slaem",
+"salem",
+53
+],
+[
+"lewes city",
+"lewes",
+53
+],
+[
+"nsahville",
+"nashville",
+52
+],
+[
+"tarrytown",
+"sleepy hollow",
+52
+],
+[
+"nimishillen twp",
+"louisville",
+52
+],
+[
+"apple valley city",
+"apple valley",
+52
+],
+[
+"bronnx",
+"bronx",
+52
+],
+[
+"georgetown cdp",
+"georgetown",
+52
+],
+[
+"bealeton",
+"fauquier county",
+52
+],
+[
+"wirtz",
+"franklin county",
+52
+],
+[
+"kaysville",
+"fruit heights",
+52
+],
+[
+"apalachin",
+"owego",
+52
+],
+[
+"charlotte citty",
+"charlotte",
+52
+],
+[
+"r",
+"unit r",
+52
+],
+[
+"floyd",
+"floyd county",
+52
+],
+[
+"prescott township",
+"prescott",
+52
+],
+[
+"gate city",
+"scott county",
+52
+],
+[
+"cyress",
+"cypress",
+52
+],
+[
+"bahadurgarh",
+"delhi",
+52
+],
+[
+"mariopa",
+"maricopa",
+52
+],
+[
+"decattur",
+"decatur",
+52
+],
+[
+"foley city",
+"foley",
+52
+],
+[
+"aylett",
+"king william county",
+52
+],
+[
+"middleboro",
+"middleborough",
+52
+],
+[
+"joelton",
+"nashville",
+52
+],
+[
+"tucson township",
+"tucson",
+52
+],
+[
+"dover city",
+"dover",
+52
+],
+[
+"mattituck",
+"southold",
+52
+],
+[
+"springdale",
+"tontitown",
+52
+],
+[
+"riverdale",
+"chicago",
+52
+],
+[
+"wyandanch",
+"babylon",
+52
+],
+[
+"chicago ctiy",
+"chicago",
+52
+],
+[
+"nw bern",
+"new bern",
+52
+],
+[
+"springffield",
+"springfield",
+52
+],
+[
+"montgomery township",
+"montgomery",
+52
+],
+[
+"burlington township",
+"burlington",
+51
+],
+[
+"quueen creek",
+"queen creek",
+51
+],
+[
+"cncinnati",
+"cincinnati",
+51
+],
+[
+"w chester",
+"west chester",
+51
+],
+[
+"glbert",
+"gilbert",
+51
+],
+[
+"antioch city",
+"nashville",
+51
+],
+[
+"monttgomery",
+"montgomery",
+51
+],
+[
+"fairfax city",
+"fairfax county",
+51
+],
+[
+"port chester",
+"rye brook",
+51
+],
+[
+"highland springs",
+"henrico county",
+51
+],
+[
+"aurorra",
+"aurora",
+51
+],
+[
+"waterville",
+"winslow",
+51
+],
+[
+"mobile ownship",
+"mobile",
+51
+],
+[
+"chalotte",
+"charlotte",
+51
+],
+[
+"davenport city",
+"davenport",
+51
+],
+[
+"raliegh city",
+"raleigh",
+51
+],
+[
+"bltimore",
+"baltimore",
+51
+],
+[
+"suite b",
+"unit suite b",
+51
+],
+[
+"kingman township",
+"kingman",
+51
+],
+[
+"cary cdp",
+"cary",
+51
+],
+[
+"ganganagar",
+"telangana",
+51
+],
+[
+"gordonsville",
+"louisa county",
+51
+],
+[
+"washingtn",
+"washington",
+51
+],
+[
+"montross",
+"westmoreland county",
+51
+],
+[
+"katy ttownship",
+"katy",
+51
+],
+[
+"tyler city",
+"tyler",
+51
+],
+[
+"redding city",
+"redding",
+51
+],
+[
+"ocean city city",
+"ocean city",
+50
+],
+[
+"flagstaff city",
+"flagstaff",
+50
+],
+[
+"center moriches",
+"brookhaven",
+50
+],
+[
+"lubbok",
+"lubbock",
+50
+],
+[
+"klye",
+"kyle",
+50
+],
+[
+"gerensboro",
+"greensboro",
+50
+],
+[
+"leander ciyt",
+"leander",
+50
+],
+[
+"la salle",
+"lasalle",
+50
+],
+[
+"ashtabula twp",
+"ashtabula",
+50
+],
+[
+"lncoln",
+"lincoln",
+50
+],
+[
+"painesville twp",
+"painesville township",
+50
+],
+[
+"lncaster",
+"lancaster",
+50
+],
+[
+"eggertsville",
+"amherst",
+50
+],
+[
+"woodbury",
+"oyster bay",
+50
+],
+[
+"fort george g meade",
+"fort meade",
+50
+],
+[
+"rio raancho city",
+"rio rancho",
+50
+],
+[
+"amraillo",
+"amarillo",
+50
+],
+[
+"jacksn",
+"jackson",
+50
+],
+[
+"goodeyar",
+"goodyear",
+50
+],
+[
+"owings millls",
+"owings mills",
+50
+],
+[
+"tuson",
+"tucson",
+50
+],
+[
+"monticello city",
+"monticello",
+50
+],
+[
+"gallatin city",
+"gallatin",
+50
+],
+[
+"columbsu",
+"columbus",
+50
+],
+[
+"west harrison",
+"harrison",
+50
+],
+[
+"providence forge",
+"new kent county",
+50
+],
+[
+"folsom city",
+"folsom",
+50
+],
+[
+"saem",
+"salem",
+50
+],
+[
+"phoeniix township",
+"phoenix",
+50
+],
+[
+"luisville",
+"louisville",
+50
+],
+[
+"vasundhara",
+"delhi",
+50
+],
+[
+"arliington",
+"arlington",
+50
+],
+[
+"highland mills",
+"woodbury",
+50
+],
+[
+"spokane cdp",
+"spokane",
+50
+]
+]
