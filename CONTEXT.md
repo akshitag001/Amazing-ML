@@ -82,8 +82,12 @@ initial uncapped run showed gains below 1e-4 average-precision per 100 rounds be
 Leakage audit: traced every code path that reads `train_ground_truth.tsv` — confined to feature
 labeling, train-split alias learning, and evaluation; no feature computation reads labels. Feature
 importance is concentrated in `b_rank_rev` (blocking reverse-rank, 76.5% of gain) — flagged and
-ablated rather than assumed safe; verdict pending ablation run completion at time of writing (see
-`cache/models/lgb_v1_meta.json` and rerun `src/ablation.py` output for the final numbers).
+ablated rather than assumed safe. **Ablation result (PASS):** removing `b_rank_rev` alone barely moved
+validation AP (0.99914 → 0.99912); removing the entire competition/blocking group (13 features) still
+left AP at 0.99879. Name-only features reach AP 0.85127, address-only 0.95850 — both well above
+chance and below the full model, the expected pattern for distributed (non-leaking) signal. A leaking
+feature would have collapsed AP toward ~0.5–0.6; none did. `b_rank_rev`'s high gain share is a
+tree-splitting artifact of being a strong, cheap-to-split-on structural feature, not label leakage.
 
 **Checkpoint 5.5 — Conflict resolution.** Exploited the "each S2/S3 record belongs to ≤1 true S1"
 constraint: among candidates clearing the threshold, only the highest-scoring S1 keeps each contested
@@ -125,9 +129,7 @@ and `deterministic=True`.
 
 ## Known open items for later checkpoints
 
-- Ablation run (`src/ablation.py`) confirming `b_rank_rev`'s 76.5% gain share is distributed signal,
-  not leakage — check its latest output before trusting this submission for anything beyond a first
-  leaderboard sanity check.
+- Leakage ablation is done and passed (see above) — no longer an open item.
 - Strategy C (multilingual embedding blocking pass) deliberately deferred — only add if error
   analysis on Tamil/Kannada-script entities shows real recall loss.
 - Checkpoints 7 (error analysis + targeted fix), 8 (final output re-validation), 9 (leaderboard vs.
