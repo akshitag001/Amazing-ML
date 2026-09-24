@@ -8,7 +8,6 @@ ber/cache/models/*
 !ber/cache/models/lgb_v1_meta.json
 !ber/cache/models/threshold.json
 # exceeds GitHub's 100 MB per-file limit
-ber/output/candidate_pairs.tsv
 # no README files in this repo
 README.md
 **/README.md
