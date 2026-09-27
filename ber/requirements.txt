@@ -1,0 +1,12 @@
+polars==1.37.1
+pandas==2.2.1
+numpy==1.26.4
+scipy==1.17.1
+scikit-learn==1.4.2
+lightgbm==4.6.0
+xgboost==3.1.2
+rapidfuzz==3.9.3
+torch==2.6.0+cu124
+anyascii==0.3.3
+joblib==1.5.3
+psutil==7.0.0

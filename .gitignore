@@ -1,13 +1,28 @@
 # data (not redistributed)
 student_resource/dataset/
-# regenerable intermediate artifacts (~19 GB); keep only the trained model files
+# regenerable intermediate artifacts (~20 GB); keep only the trained model files
 ber/cache/*
 !ber/cache/models/
 ber/cache/models/*
 !ber/cache/models/lgb_v1.txt
 !ber/cache/models/lgb_v1_meta.json
 !ber/cache/models/threshold.json
-# exceeds GitHub's 100 MB per-file limit
+# final (v4) stacking models
+!ber/cache/models/xgb_s1_fold0.json
+!ber/cache/models/xgb_s1_fold1.json
+!ber/cache/models/lgb_s2.txt
+!ber/cache/models/xgb_s2.json
+!ber/cache/models/lgb_s2_meta.json
+!ber/cache/models/threshold_s2.json
+# v2 models (leaderboard 0.968 submission)
+!ber/cache/models/v2/
+ber/cache/models/v2/val_pred_s2.parquet
+# large regenerable outputs (candidate lists ~900 MB each exceed GitHub limits / LFS quota)
+ber/output/lb_0966_v1/
+ber/output/v3_region/
+ber/output/v2_stack_val09777/candidate_pairs.tsv
+ber/output/v4/candidate_pairs.tsv
+submission.zip
 # no README files in this repo
 README.md
 **/README.md

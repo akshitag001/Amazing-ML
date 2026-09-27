@@ -199,6 +199,15 @@ def _keys(df, idx_name):
         base.with_columns(pl.col("addr_locality").str.split("|")).explode("addr_locality")
         .filter(pl.col("addr_locality") != "").explode("tok").select(
             idx_name, pl.concat_str("country", pl.lit("|tl|"), "tok", pl.lit("|"), "addr_locality").alias("key")),
+        # name-only keys (no address component required at all): every other Strategy-A key needs some
+        # address signal (region/locality/house-number), so a blank-address record - ~3% of S2/S3, and
+        # verified to carry real true matches (e.g. exact-name pairs where the S2/S3 side has no address
+        # at all) - can otherwise never be blocked by Strategy A regardless of how exact the name match is.
+        # Length-gated and capped like the others so generic short names don't blow up the candidate count.
+        base.filter(pl.col("name_nospace").str.len_chars() >= 6).select(
+            idx_name, pl.concat_str("country", pl.lit("|nm|"), "name_nospace").alias("key")),
+        base.filter(pl.col("name_skel").str.len_chars() >= 5).select(
+            idx_name, pl.concat_str("country", pl.lit("|sk|"), "name_skel").alias("key")),
     ]
     return pl.concat(keys).drop_nulls().unique().with_columns(pl.col("key").hash(SEED))
 
