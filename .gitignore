@@ -32,3 +32,6 @@ __MACOSX/
 **/.DS_Store
 __pycache__/
 **/__pycache__/
+# local packaging artifacts
+package/
+submission_v1_old.zip
